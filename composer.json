@@ -1,0 +1,17 @@
+{
+    "name": "youpal/scrap",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mykola"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/panther": "^2.0@dev",
+        "workerman/workerman": "dev-master"
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "dev-main"
+    }
+}
